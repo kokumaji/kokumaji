@@ -16,6 +16,7 @@ Feel free to contact me about pretty much anything! ✨
 <h3 style="font-weight:bold;margin-top:3em;">Active Projects</h3>
 
 - [`e621-cli`](https://github.com/kokumaji/e621-cli)
+- [`Tamer (PaperMC Plugin)`](https://github.com/kokumaji/Tamer)
 - More will be added soon...
 
 <h3 style="font-weight:bold;margin-top:3em;">Cool People 🤓</h3>
