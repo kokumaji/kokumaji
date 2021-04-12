@@ -2,32 +2,35 @@
     <img src="https://raw.githubusercontent.com/kokumaji/kokumaji/master/images/kokumaji_banner.png">
 </p>
 
-<p style="font-family:'Times New Roman';text-align:center;font-size:1.5em;">
-    Full-stack developer in Java, NodeJS, React and Python 🌿
-</p>
-
-<h3 style="font-weight:bold;margin-top:3em;">Social Media</h3>
-
-Feel free to contact me about pretty much anything! ✨
-- <img src="https://raw.githubusercontent.com/kokumaji/kokumaji/master/images/logo-twitter.svg" width="24px" align="top"> [`@kokumajiArt`](https://twitter.com/kokumajiArt)
-- <img src="https://raw.githubusercontent.com/kokumaji/kokumaji/master/images/logo-telegram.svg" width="24px" align="top"> [`@kokumaji`](https://t.me/kokumaji)
-
-
-<h3 style="font-weight:bold;margin-top:3em;">Active Projects</h3>
-
-- [`e621-cli`](https://github.com/kokumaji/e621-cli)
-- [`Tamer (PaperMC Plugin)`](https://github.com/kokumaji/Tamer)
-- More will be added soon...
-
-<h3 style="font-weight:bold;margin-top:3em;">Cool People 🤓</h3>
-
-- [`@Weilbyte`](https://github.com/Weilbyte)
-- [`@SkyezerFox`](https://github.com/SkyezerFox)
-- [`@vladfrangu`](https://github.com/vladfrangu)
-
+<h3 align="center">
+    <b>Kokumaji</b> | Full-stack Developer in Java, NodeJS, React and Python 🌿
+</h3>
 
 ---
-Kokumaji &copy; 2020
+
+
+<h3 style="font-weight:bold;margin-top:3em;">🌱 Programming Languages</h3>
+
+- Java ➡ 7+ Years of Experience. Mostly CLI/GUI applications and Add-Ons to Java based games/server software (i.e. Minecraft/PaperMC).
+- NodeJS/Typescript ➡ 4+ Years of Experience. Experienced in development of   web applications and bots.
+- Python ➡ 4+ Years of Experience. Experience in development of small scale CLI applications and bots.
+- *I'm currently learning...* Go, C/C++ and Kotlin
+
+<h3 style="font-weight:bold;margin-top:3em;">🌿 Active Projects</h3>
+(Working on Projects that are worth mentioning here)
+
+- **Project Name** - Project Description 
+
+<h3 style="font-weight:bold;margin-top:3em;">🌿 Profile Statistics</h3>
+
+<br>
+
+<p align=center>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kokumaji">
+    <img src="https://github-readme-stats.vercel.app/api/?username=kokumaji&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
+</p>
+---
+Kokumaji &copy; 2021
 
 <!--
 **kokumaji/kokumaji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
