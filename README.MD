@@ -19,7 +19,7 @@
 <h3 style="font-weight:bold;margin-top:3em;">🌿 Active Projects</h3>
 (Working on Projects that are worth mentioning here)
 
-- **Project Name** - Project Description 
+- **[Python Scripts](https://github.com/kokumaji/python-scripts)** - A collection of random Python scripts to showcase my python skills
 
 <h3 style="font-weight:bold;margin-top:3em;">🌿 Profile Statistics</h3>
 
