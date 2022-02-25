@@ -1,3 +1,4 @@
+
 <p align=center>
     <img src="https://raw.githubusercontent.com/kokumaji/kokumaji/master/images/kokumaji_banner.png">
 </p>
@@ -11,10 +12,18 @@
 
 <h3 style="font-weight:bold;margin-top:3em;">🌱 Programming Languages</h3>
 
-- Java ➡ 7+ Years of Experience. Mostly CLI/GUI applications and Add-Ons to Java based games/server software (i.e. Minecraft/PaperMC).
-- NodeJS/Typescript ➡ 4+ Years of Experience. Experienced in development of   web applications and bots.
-- Python ➡ 4+ Years of Experience. Experience in development of small scale CLI applications and bots.
-- *I'm currently learning...* Go, C/C++ and Kotlin
+- Java & Kotlin ➡ 8+ Years of Experience. 
+  - Extensions to existing Projects 
+  - UI & CLI Applications
+- NodeJS/Typescript ➡ 5+ Years of Experience.
+  - React & VueJS
+  - Backend Development (ExpressJS)
+  - Bot Development (DiscordJS)
+- Python ➡ 5+ Years of Experience.
+  - Small Scale CLI Applications
+  - Web-Client Frameworks
+  - Bot Development
+- *I'm currently learning...* Go, C/C++, Rust
 
 <h3 style="font-weight:bold;margin-top:3em;">🌿 Active Projects</h3>
 (Working on Projects that are worth mentioning here)
@@ -31,19 +40,4 @@
 </p>
 
 ---
-Kokumaji &copy; 2021
-
-<!--
-**kokumaji/kokumaji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Kokumaji &copy; 2022
