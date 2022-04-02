@@ -12,18 +12,18 @@
 
 <h3 style="font-weight:bold;margin-top:3em;">🌱 Programming Languages</h3>
 
-- Java & Kotlin ➡ 8+ Years of Experience. 
+- **Java & Kotlin ➡ 8+ Years of Experience.** 
   - Extensions to existing Projects 
   - UI & CLI Applications
-- NodeJS/Typescript ➡ 5+ Years of Experience.
+- **NodeJS/Typescript ➡ 5+ Years of Experience.**
   - React & VueJS
   - Backend Development (ExpressJS)
   - Bot Development (DiscordJS)
-- Python ➡ 5+ Years of Experience.
+- **Python ➡ 5+ Years of Experience.**
   - Small Scale CLI Applications
   - Web-Client Frameworks
   - Bot Development
-- *I'm currently learning...* Go, C/C++, Rust
+- ***I'm currently learning...* Go, C/C++, Rust**
 
 <h3 style="font-weight:bold;margin-top:3em;">🌿 Active Projects</h3>
 (Working on Projects that are worth mentioning here)
