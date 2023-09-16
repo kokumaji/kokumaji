@@ -9,38 +9,24 @@
 
 ---
 
+**Hey there!** I'm a full-stack developer originating from Essen, Germany. 🍃 
+I've been interested in technology all my life and started coding when I was just 13 years old. What started with simple **HTML + CSS** projects later evolved to larger scale **NodeJS**-based bots. I eventually came across Minecraft server plugin development in **Java/Kotlin** which really sparked my passion for software development. 
 
-<h3 style="font-weight:bold;margin-top:3em;">🌱 Programming Languages</h3>
+Fast-forward 10 years, I am now working on getting a degree in software development. Throughout the years I acquired a couple more skills by following coding trends and exploring what big companies use. Thats why you will always see me use **MongoDB** for managing data in projects and **Docker** for running said projects.
 
-- **Java & Kotlin ➡ 8+ Years of Experience.** 
-  - Extensions to existing Projects 
-  - UI & CLI Applications
-- **NodeJS/Typescript ➡ 5+ Years of Experience.**
-  - React & VueJS
-  - Backend Development (ExpressJS)
-  - Bot Development (DiscordJS)
-- **Python ➡ 5+ Years of Experience.**
-  - Small Scale CLI Applications
-  - Web-Client Frameworks
-  - Bot Development
-- **C/C++ ➡ Intermediate Skills**
-  - Small Scale CLI Applications
-  - Embedded Software Development
-- ***I'm currently learning...* Go & Rust**
+What I really enjoy about coding is, that there are so many ways to solve a problem, its just a matter of finding the right solution and making sure its performant. 
 
-<h3 style="font-weight:bold;margin-top:3em;">🌿 Active Projects</h3>
-(Working on Projects that are worth mentioning here)
+🛠️ **My Skills**
+---
 
-- **[Python Scripts](https://github.com/kokumaji/python-scripts)** - A collection of random Python scripts to showcase my python skills
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,ts,js,python,vue,react,nextjs,rust,bash,linux,mongodb,docker,figma)](https://skillicons.dev)
 
-<h3 style="font-weight:bold;margin-top:3em;">🌿 Profile Statistics</h3>
 
-<br>
+🌿 **Active Projects**
+---
 
-<p align=center>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kokumaji">
-    <img src="https://github-readme-stats.vercel.app/api/?username=kokumaji&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
-</p>
+As of right now, there isn't really something I can or want to share, my repositories are quite old and mostly unmaintained. I am hoping to add a couple more demo projects to demonstrate my skills.
+
 
 ---
-Kokumaji &copy; 2022
+Kokumaji &copy; 2023
